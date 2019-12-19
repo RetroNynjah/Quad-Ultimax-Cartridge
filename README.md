@@ -12,14 +12,6 @@ Gerber files and 3D-printable enclosure included.
 
 <img src="images/cartridge-with-rom-selector-rendered.png" alt="drawing" width="500"/>
 
-## BOM
- |Component|Pcs |Comment|
- |:--------|---:|:------|
- | 27256/27C256 EPROM DIP-28| 1 | or compatible EPROM|
- | 2-pos dip switch | 1 | Optional. CT2062-ND from Digikey or similar| 
- | 100nF ceramic capactitor | 1 | |
- | 10k resistor | 2 | |
- 
 <style>
 	table{
 	    border-collapse: collapse;
@@ -39,3 +31,12 @@ Gerber files and 3D-printable enclosure included.
 	    border:1px solid #000000;
 	}
 </style>
+
+## BOM
+ |Component|Pcs |Comment|
+ |:--------|---:|:------|
+ | 27256/27C256 EPROM DIP-28| 1 | or compatible EPROM|
+ | 2-pos dip switch | 1 | Optional. CT2062-ND from Digikey or similar| 
+ | 100nF ceramic capactitor | 1 | |
+ | 10k resistor | 2 | |
+ 
