@@ -20,23 +20,22 @@ Gerber files and 3D-printable enclosure included.
  | 100nF ceramic capactitor | 1 | |
  | 10k resistor | 2 | |
  
- <style>
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:1px solid #000000;
-}
+<style>
+	table{
+	    border-collapse: collapse;
+	    border-spacing: 0;
+	    border:1px solid #000000;
+	}
 
-th{
-	background-color: #909090;
-	color: #FFFFFF;
-	padding: 10px;
-    border:1px solid #000000;
-}
+	th{
+		background-color: #909090;
+		color: #FFFFFF;
+		padding: 10px;
+	    border:1px solid #000000;
+	}
 
-td{
-	padding: 10px;
-    border:1px solid #000000;
-}
-
+	td{
+		padding: 10px;
+	    border:1px solid #000000;
+	}
 </style>
