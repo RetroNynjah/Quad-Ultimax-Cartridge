@@ -1,6 +1,6 @@
-# Quad Ultimax Cartridge
+# Retro Ninja Quad Ultimax Cartridge
 
-Eagle schematic and board for a C64 Ultimax cartridge with two-bit ROM selector DIP switch (or jumpers). It's based on a 27256 type EPROM and can fit four 64Kbit (8KB) Ultimax ROM images.
+Eagle schematics and board for a C64 Ultimax cartridge with two-bit ROM selector DIP switch (or jumpers). It's based on a 27256 type EPROM and can fit four 64Kbit (8KB) Ultimax ROM images.
 
 Combine up to four 8KB ROM files into one bigger file before burning EPROM.
 
