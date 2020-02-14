@@ -20,3 +20,4 @@ Gerber files and 3D-printable enclosure included.
  | 100nF ceramic capacitor | 1 | C1 ||
  | 10k resistor | 2 | R1, R2 ||
  
+Retro Ninja
